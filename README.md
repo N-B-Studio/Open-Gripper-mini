@@ -6,15 +6,12 @@ Overview
 - Small, open-source gripper designed for desktop and educational robot arms.
 - Parts are provided as standard STEP/SLDPRT files and ready-to-print STL exports (see the `3D file` folder).
 
-Video:
+Video: https://youtu.be/XBJdAMN-ZtU
 <p align="center">
   <a href="https://youtu.be/XBJdAMN-ZtU">
     <img src="https://img.youtube.com/vi/XBJdAMN-ZtU/maxresdefault.jpg" width="800">
   </a>
 </p>
-
-Gallery：
-![](Image/image-2.jpg)
 
 Contents
 - `3D file/` — original CAD STEP model and related exports
