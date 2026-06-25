@@ -1,0 +1,7 @@
+../Core/Src/BMI088driver.c:161:9:BMI088_init	1
+../Core/Src/BMI088driver.c:181:9:bmi088_accel_init	4
+../Core/Src/BMI088driver.c:233:9:bmi088_gyro_init	4
+../Core/Src/BMI088driver.c:287:6:BMI088_read	3
+../Core/Src/BMI088driver.c:333:13:BMI088_write_single_reg	1
+../Core/Src/BMI088driver.c:347:13:BMI088_read_single_reg	1
+../Core/Src/BMI088driver.c:375:13:BMI088_read_muli_reg	2

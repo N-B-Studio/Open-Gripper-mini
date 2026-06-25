@@ -1,0 +1,11 @@
+../Core/Src/main.c:105:20:arm_enable	16	static
+../Core/Src/main.c:84:13:log_uart1	8	static
+../Core/Src/main.c:89:13:logf_uart1	16	static
+../Core/Src/main.c:204:13:fatal	8	static,ignoring_inline_asm
+../Core/Src/main.c:133:12:jc_send8	8	static
+../Core/Src/main.c:160:12:jc_set_torque_nm	16	static
+../Core/Src/main.c:171:6:can_parse_feedback	8	static
+../Core/Src/main.c:406:6:SystemClock_Config	128	static
+../Core/Src/main.c:259:5:main	104	static
+../Core/Src/main.c:461:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:475:6:Error_Handler	0	static

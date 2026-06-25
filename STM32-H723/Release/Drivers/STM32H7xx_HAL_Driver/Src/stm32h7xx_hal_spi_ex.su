@@ -1,0 +1,3 @@
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c:74:19:HAL_SPIEx_FlushRxFifo	24	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c:113:19:HAL_SPIEx_EnableLockConfiguration	0	static
+../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c:161:19:HAL_SPIEx_ConfigureUnderrun	8	static
