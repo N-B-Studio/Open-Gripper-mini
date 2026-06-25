@@ -7,9 +7,13 @@ Overview
 - Parts are provided as standard STEP/SLDPRT files and ready-to-print STL exports (see the `3D file` folder).
 
 Video:
-https://youtu.be/XBJdAMN-ZtU 
-Gallery：
+<p align="center">
+  <a href="https://youtu.be/XBJdAMN-ZtU">
+    <img src="https://img.youtube.com/vi/XBJdAMN-ZtU/maxresdefault.jpg" width="800">
+  </a>
+</p>
 
+Gallery：
 ![](Image/image-2.jpg)
 
 Contents
