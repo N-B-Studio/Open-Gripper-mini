@@ -6,6 +6,8 @@ Overview
 - Small, open-source gripper designed for desktop and educational robot arms.
 - Parts are provided as standard STEP/SLDPRT files and ready-to-print STL exports (see the `3D file` folder).
 
+Video:
+https://youtu.be/XBJdAMN-ZtU 
 Gallery：
 
 ![](Image/image-2.jpg)
